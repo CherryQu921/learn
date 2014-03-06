@@ -1,0 +1,1 @@
+This is a dummy repo. I'm just using GitHub "issues" to record my learning adventure. Each issue is a piece of knowledge that I encountered at some point in my life. These shiny little pieces are kind enough to greet me and enrich my spirit.
